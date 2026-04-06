@@ -1,3 +1,7 @@
+body {
+  background-color: #f9f7fe;
+}
+
 h1 {
   text-align: center;
   font-family: sans-serif;
@@ -7,10 +11,6 @@ h1 {
 h2 {
   margin: 0 0 5px;
   font-size: 28px;
-}
-
-body {
-  background-color: #f9f7fe;
 }
 
 select {
